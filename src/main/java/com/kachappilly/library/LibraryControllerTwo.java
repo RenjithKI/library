@@ -16,7 +16,10 @@ import org.springframework.web.bind.annotation.RequestMethod;
  */
 /**
  * @author Renjith
- *
+ *http://localhost:8080/readingListTwo
+ *http://localhost:8080/readingList
+ *http://localhost:8080/h2-console
+ *http://localhost:8080/all
  */
 @Controller
 /*@RequestMapping("/readingList")*/
